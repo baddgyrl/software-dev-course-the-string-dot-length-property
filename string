@@ -1,0 +1,15 @@
+let singleQuoteString = 'It\'s my birthday!';
+console.log(singleQuoteString);
+let doubleQuoteString = "She said, \"Javascript is fun!\"";
+console.log(doubleQuoteString);
+let combinedQuoteString = "He said, 'It's time to learn JavaScript!'";
+console.log(combinedQuoteString);
+let bothQuoteString = 'The instructorr said, "Don\'t forget to practice!"';
+console.log(bothQuoteString);
+
+console.log("Start");
+for (let i = 0; i < 3; i++) {
+    console.log("Iteration " + (i + 1));
+}
+console.log("End");
+
